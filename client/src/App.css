@@ -1,0 +1,18 @@
+#everything {
+    background-color: #D7F1FE;
+    font-family: 'Noto Serif JP', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+#searchButton {
+    background-color: #F79D01;
+}
+
+#message {
+    color: #0B7DB6;
+}
+
+/* .inputSearch {
+    align-content: center;
+} */

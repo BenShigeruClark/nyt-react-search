@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #D7F1FE;
+    /* color: #D7F1FE; */
+    font-family: 'Noto Serif JP', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Reenie Beanie', cursive;
+    margin: 0px;
+    height: 60px;
+    
+}
+
+#title {
+    font-size: 30px;
+}

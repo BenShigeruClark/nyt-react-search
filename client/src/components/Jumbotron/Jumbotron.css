@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color: #0B7DB6;
+    color: #D7F1FE;
+    font-family: 'Noto Serif JP', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+#titleMessage {
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+#titleMain {
+    font-size: 70px;
+}
