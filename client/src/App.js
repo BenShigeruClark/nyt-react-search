@@ -44,8 +44,6 @@ class App extends Component {
                                     <Col size="xs-9 sm-10">
                                     <Input
                                     name="articleSearch"
-                                    value={this.state.articleSearch}
-                                    onChange={this.handleInputChange}
                                     placeholder="Topic"
                                     /> 
                                      <br></br>                                 
@@ -55,8 +53,6 @@ class App extends Component {
                                     <Input
                                     className="inputSearch"
                                     name="articleSearch"
-                                    value={this.state.articleSearch}
-                                    onChange={this.handleInputChange}
                                     placeholder="Start Year"
                                     />
                                      <br></br>
@@ -64,8 +60,6 @@ class App extends Component {
                                     <Col size="xs-9 sm-10">
                                     <Input
                                     name="articleSearch"
-                                    value={this.state.articleSearch}
-                                    onChange={this.handleInputChange}
                                     placeholder="End Year"
                                     />
                                      <br></br>
